@@ -1,3 +1,3 @@
-[debug] not up to date. inChanged = false, force = false
-[debug] Updating ProjectRef(uri("file:/home/hassan/IdeaProjects/Assignment1/project/"), "assignment1-build")...
-[debug] Done updating ProjectRef(uri("file:/home/hassan/IdeaProjects/Assignment1/project/"), "assignment1-build")
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/hassan/Scala%20Functional%20Programming/project/"), "scala-functional-programming-build")...
+[debug] Done updating ProjectRef(uri("file:/home/hassan/Scala%20Functional%20Programming/project/"), "scala-functional-programming-build")
