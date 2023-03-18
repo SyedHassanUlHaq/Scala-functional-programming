@@ -25,3 +25,26 @@ INFO: Unsupported notification method: $/setTrace
 2023.03.16 01:48:39 INFO  Shutting down server
 2023.03.16 01:48:39 INFO  shutting down Metals
 2023.03.16 01:48:39 INFO  Exiting server
+2023.03.18 13:28:59 INFO  Started: Metals version 0.11.11 in workspace '/home/hassan/Scala Functional Programming' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/hassan/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.18 13:29:00 INFO  time: initialize in 1.16s
+2023.03.18 13:29:05 WARN  Build server is not auto-connectable.
+2023.03.18 13:29:15 WARN  no build target for: /home/hassan/Scala Functional Programming/src/main/scala/Assignment_2/ex1.scala
+2023.03.18 13:29:17 WARN  no build target for: /home/hassan/Scala Functional Programming/src/main/scala/Assignment_2/ex2.scala
+2023.03.18 13:29:21 WARN  no build target for: /home/hassan/Scala Functional Programming/src/main/scala/Assignment_2/ex3.scala
+2023.03.18 13:29:24 INFO  no build target found for /home/hassan/Scala Functional Programming/src/main/scala/Assignment_2/ex1.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.18 13:29:25 WARN  no build target for: /home/hassan/Scala Functional Programming/src/main/scala/Assignment_2/ex4.scala
+2023.03.18 13:29:31 INFO  time: code lens generation in 5.67s
+2023.03.18 13:29:31 INFO  time: code lens generation in 9.65s
+2023.03.18 13:29:31 INFO  time: code lens generation in 13s
+2023.03.18 13:29:31 INFO  time: code lens generation in 14s
+Mar 18, 2023 1:29:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 18, 2023 1:29:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.03.18 13:30:21 WARN  no build target for: /home/hassan/Scala Functional Programming/src/main/scala/Assignment_2/ex3.scala
